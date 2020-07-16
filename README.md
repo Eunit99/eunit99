@@ -1,6 +1,6 @@
 <img src="eunit99.jpg" alt="Eunit99 on Github">
 
-# Hi 👋, I'm Eunit99 ( *Emmauel* *Uchenna* )
+# Hi 👋 I'm Eunit99 ( *Emmauel* *Uchenna* )
 
 I am Emmanuel Uchenna, freelance ``chat bot developer`` | ``web developer`` | ``web designer`` | ``frontend developer`` | ``graphic designer``
 
