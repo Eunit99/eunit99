@@ -2,7 +2,7 @@
 # Hi 👋 I'm Eunit99 ( *Emmauel* *Uchenna* )
 
 
-<img src="eunit99.jpg" alt="Eunit99 on Github">
+<img src="https://raw.githubusercontent.com/Eunit99/eunit99/master/eunit99.jpg" alt="Eunit99 on Github">
 
 I am Emmanuel Uchenna, freelance ``chat bot developer`` | ``web developer`` | ``web designer`` | ``frontend developer`` | ``graphic designer``
 
