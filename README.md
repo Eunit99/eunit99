@@ -86,11 +86,12 @@ Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=flat-square&logo=
 
 [![Twitter](https://img.shields.io/badge/@eunit99-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/eunit99)
 [![LinkedIn](https://img.shields.io/badge/Emmanuel_Uchenna-0077b5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eunit99)
+[![Facebook](https://img.shields.io/badge/Emmanuel_Uchenna-0077b5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.facebook.com/eunit99)
 [![CodePen](https://img.shields.io/badge/Emmanuel_Uchenna-1e1f26?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/eunit99)
-[![Stack Overflow](https://img.shields.io/badge/Emmanuel_Uchenna-393939?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/922425/eunit99)
-[![Dev](https://img.shields.io/badge/@eunit99?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/eunit99)
-[![Medium](https://img.shields.io/badge/@eunit99?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@eunit99)
-
-<a href="https://stackexchange.com/users/922425/eunit99"><img src="https://stackexchange.com/users/flair/922425/eunit99.png?theme=dark" width="208" height="58" alt="profile for Emmanuel Uchenna on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Emmanuel Uchenna on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+<!-- [![Stack Overflow](https://img.shields.io/badge/Emmanuel_Uchenna-393939?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/922425/eunit99) -->
+<!-- [![Dev](https://img.shields.io/badge/@eunit99?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/eunit99) -->
+<!-- [![Medium](https://img.shields.io/badge/@eunit99?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@eunit99) -->
+<!--  -->
+<!-- <a href="https://stackexchange.com/users/922425/eunit99"><img src="https://stackexchange.com/users/flair/922425/eunit99.png?theme=dark" width="208" height="58" alt="profile for Emmanuel Uchenna on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Emmanuel Uchenna on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a> -->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=eunit99)
