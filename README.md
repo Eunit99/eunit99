@@ -86,7 +86,7 @@ Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=flat-square&logo=
 
 [![Twitter](https://img.shields.io/badge/@eunit99-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/eunit99)
 [![LinkedIn](https://img.shields.io/badge/Emmanuel_Uchenna-0077b5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eunit99)
-[![Facebook](https://img.shields.io/badge/Emmanuel_Uchenna-0077b5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.facebook.com/eunit99)
+[![Facebook](https://img.shields.io/badge/Emmanuel_Uchenna-0077b5?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/eunit99)
 [![CodePen](https://img.shields.io/badge/Emmanuel_Uchenna-1e1f26?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/eunit99)
 <!-- [![Stack Overflow](https://img.shields.io/badge/Emmanuel_Uchenna-393939?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/922425/eunit99) -->
 <!-- [![Dev](https://img.shields.io/badge/@eunit99?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/eunit99) -->
