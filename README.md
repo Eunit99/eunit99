@@ -1,18 +1,21 @@
-# Hi 👋 I'm Eunit99 ( *Emmauel* *Uchenna* )
-
+# Hi 👋 I'm Eunit99 ( _Emmauel_ _Uchenna_ )
 
 <img src="https://raw.githubusercontent.com/Eunit99/eunit99/master/eunit99.jpg" alt="Eunit99 on Github">
 
-I am Emmanuel Uchenna, freelance ``chat bot developer`` | ``web developer`` | ``web designer`` | ``frontend developer``
-| ``graphic designer``
+I am Emmanuel Uchenna, freelance `chat bot developer` | `web developer` |
+`web designer` | `frontend developer` | `graphic designer`
 
-I am a seasoned frontend web developer. **HTML5**, **CSS3**, **JavaScript**, **jQuery**, **VueJS**, and **ReactJS** are
-my web development tools. I am familiar with responsive design techniques, approaching all projects with a mobile-first
-view, ensuring that what I produce will look great regardless of the type of device it is being viewed on.
+I am a seasoned frontend web developer. **HTML5**, **CSS3**, **JavaScript**,
+**jQuery**, **VueJS**, and **ReactJS** are my web development tools. I am
+familiar with responsive design techniques, approaching all projects with a
+mobile-first view, ensuring that what I produce will look great regardless of
+the type of device it is being viewed on.
 
-I love creating websites and also programming. This is all my motivation pushing me to improve my skills in multiple
-disciplines such as: UX design, UI design, frontend development, I think these are just the titles for companies. For me
-it is the path for turning ideas into live applications.
+I love creating websites and also programming. This is all my motivation pushing
+me to improve my skills in multiple disciplines such as: UX design, UI design,
+frontend development, I think these are just the titles for companies. For me it
+is the path for turning ideas into live applications.
+
 <!--
 **Eunit99/eunit99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,7 +30,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 
 <h4><b><samp>Frameworks and Languages</samp></b></h4>
 
@@ -44,6 +46,7 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![ReactJS](https://img.shields.io/badge/Flutter-47c5fb?style=flat-square&logo=React&logoColor=white)
+
 <!-- ![Dart](https://img.shields.io/badge/Dart-2bb7f6?style=flat-square&logo=Dart&logoColor=white) -->
 <!-- ![Java](https://img.shields.io/badge/Java-ea2d2f?style=flat-square&logo=java&logoColor=ffffff) -->
 <!-- ![C](https://img.shields.io/badge/C-27338e?style=flat-square&logo=c&logoColor=white) -->
@@ -57,15 +60,18 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 ![Github
 Actions](https://img.shields.io/badge/Github_Actions-2088FF?style=flat-square&logo=Github-Actions&logoColor=ffffff)
+
 <!-- ![Firebase](https://img.shields.io/badge/Firebase-ffcb2c?style=flat-square&logo=Firebase&logoColor=white) -->
+
 ![Visual Studio
 Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+
 <!-- ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=ffffff) -->
+
 ![Microsoft
 Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=flat-square&logo=Microsoft-Edge&logoColor=white)
 
 ##
-
 
 <details>
   <summary><b><samp>📈 My GitHub Stats</samp></b></summary>
