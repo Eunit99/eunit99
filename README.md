@@ -17,11 +17,12 @@ I love creating websites and also programming. This is all my motivation pushing
 disciplines such as: UX design, UI design, frontend development, I think these are just the titles for companies. For me
 it is the path for turning ideas into live applications.
 
-<br />
+
 ##  Technologies & Tools
-![Git](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&logoColor=white&color=333333)
-![GitHub](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=white&color=333333)
-![OS Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=333333)
+
+![](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&logoColor=white&color=333333)
+![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=white&color=333333)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=333333)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-informational?style=flat&logo=intellij-idea&logoColor=white&color=333333)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=333333)
 ![Github
@@ -40,7 +41,7 @@ Edge](https://img.shields.io/badge/Microsoft_Edge-informational?style=flat-squar
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunit99&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=cccccc&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/eunit99/eunit99">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eunit99&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=cccccc&bg_color=white" alt="Eunit's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eunit99&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=cccccc&bg_color=cccccc" alt="Eunit's GitHub Stats" />
 </a>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mo-renike&theme=dark" alt="Eunit" /></p>
 
