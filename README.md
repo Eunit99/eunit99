@@ -42,7 +42,7 @@ Edge](https://img.shields.io/badge/Microsoft_Edge-informational?style=flat-squar
 <a href="https://github.com/eunit99/eunit99">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=eunit99&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=cccccc&bg_color=1d1f21" alt="Eunit's GitHub Stats" />
 </a>
-<p><img width="90%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eunit99&theme=dark" alt="Eunit" /></p>
+<p><img width="95%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eunit99&theme=dark" alt="Eunit" /></p>
 
 <br />
 
