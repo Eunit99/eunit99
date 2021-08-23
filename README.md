@@ -2,7 +2,6 @@
 <h3 align="center">A passionate and enthusiastic frontend web developer.</h3>
 <img src="https://raw.githubusercontent.com/Eunit99/eunit99/master/img/eunit99.jpg" alt="Eunit99 on Github">
 <br />
-
 ## About Me
 
 I am Emmanuel Uchenna, freelance ``chat bot developer`` | ``web developer`` | ``web designer`` | ``frontend developer``
@@ -15,8 +14,8 @@ view, ensuring that what I produce will look great regardless of the type of dev
 I love creating websites and also programming. This is all my motivation pushing me to improve my skills in multiple
 disciplines such as: UX design, UI design, frontend development, I think these are just the titles for companies. For me
 it is the path for turning ideas into live applications.
-
 <br />
+
 ##  Technologies, Tools, and Languages
 
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&logoColor=white&color=333333)
@@ -37,8 +36,8 @@ Edge](https://img.shields.io/badge/Microsoft_Edge-informational?style=flat-squar
 <br />
 <br />
 <p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
 <br />
+
 ## My GitHub Stats
 <a href="https://github.com/eunit99/eunit99">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunit99&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=cccccc&bg_color=1d1f21&langs_count=3" />
@@ -47,7 +46,6 @@ Edge](https://img.shields.io/badge/Microsoft_Edge-informational?style=flat-squar
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=eunit99&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=cccccc&bg_color=1d1f21" alt="Eunit's GitHub Stats" />
 </a>
 <!-- <p><img width="95%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eunit99&theme=dark" alt="Eunit" /></p> -->
-
 <br />
 
 ## Connect With Me
