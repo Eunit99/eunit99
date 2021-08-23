@@ -2,8 +2,8 @@
 <h3 align="center">A passionate and enthusiastic frontend web developer.</h3>
 <img src="https://raw.githubusercontent.com/Eunit99/eunit99/master/img/eunit99.jpg" alt="Eunit99 on Github">
 <br />
-## About Me
 
+## About Me
 I am Emmanuel Uchenna, freelance ``chat bot developer`` | ``web developer`` | ``web designer`` | ``frontend developer``
 | ``graphic designer``
 
