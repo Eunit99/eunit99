@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Eunit99/eunit99/master/img/wave.gif" width="30px" height="30px"> I'm Eunit</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Eunit99/eunit99/master/img/wave.gif" width="30px" height="30px"> I'm Ξunit</h1>
 <h3 align="center">A passionate and enthusiastic software developer and technical writer.</h3>
 <img src="https://raw.githubusercontent.com/Eunit99/eunit99/master/img/eunit99.jpg" alt="Eunit99 on Github">
 <br />
