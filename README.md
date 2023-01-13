@@ -53,26 +53,6 @@ Name | Badges
 </p>
 
 
-
-## My GitHub Stats
-<br />
-<br />
-
-<a href="https://github.com/eunit99/eunit99">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunit99&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=cccccc&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/eunit99/eunit99">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eunit99&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=cccccc&bg_color=1d1f21" alt="Eunit's GitHub Stats" />
-</a>
-
-<br />
-<br />
-
-## Contributor's Graph
-<br />
-
-<a href="https://github.com/eunit99/"><img alt="Eunit Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=eunit99&bg_color=0D1117&color=333333&line=333333&point=FFFFFF&hide_border=true" /></a>
-
 <br />
 <br />
 
