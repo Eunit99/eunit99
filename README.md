@@ -7,12 +7,12 @@
 I am Emmanuel Uchenna, freelance ``chat bot developer`` | ``web developer`` | ``web designer`` | ``frontend developer``
 | ``graphic designer``
 
-I am a seasoned frontend web developer. **HTML5**, **CSS3**, **JavaScript**, **jQuery**, **VueJS**, and **ReactJS** are
+I am a seasoned front-end web developer. **HTML5**, **CSS3**, **JavaScript**, **jQuery**, **VueJS**, and **ReactJS** are
 my web development tools. I am familiar with responsive design techniques, approaching all projects with a mobile-first
-view, ensuring that what I produce will look great regardless of the type of device it is being viewed on.
+View, ensuring that what I produce will look great regardless of the type of device it is being viewed on.
 
-I love creating websites and also programming. This is all my motivation pushing me to improve my skills in multiple
-disciplines such as: UX design, UI design, frontend development, I think these are just the titles for companies. For me
+I love creating websites and programming. This is all my motivation pushing me to improve my skills in multiple
+disciplines such as UX design, UI design, and front-end development, I think these are just the titles for companies. For me,
 it is the path for turning ideas into live applications.
 <br />
 
