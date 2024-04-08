@@ -52,6 +52,19 @@ Name | Badges
 **CI/CD & Hosting**   | ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 </p>
 
+<br />
+
+<hr/>
+
+### Support my work
+
+⭐️ If you find any of my projects useful or interesting, consider giving them a star! Your support means a lot to me. ☕️ And if you'd like to support my work further, you can buy me a book to fuel my learning journey!
+
+<div>
+  <a href="https://www.buymeacoffee.com/eunit99"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=eunit99&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
+ </div>
+ <br/>
+
 
 <br />
 <br />
@@ -68,5 +81,4 @@ Name | Badges
 <!--  -->
 <!-- <a href="https://stackexchange.com/users/922425/eunit99"><img src="https://stackexchange.com/users/flair/922425/eunit99.png?theme=dark" width="208" height="58" alt="profile for Emmanuel Uchenna on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Emmanuel Uchenna on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a> -->
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=eunit99)
 
