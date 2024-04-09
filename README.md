@@ -65,8 +65,6 @@ Name | Badges
  </div>
  <br/>
 
-
-<br />
 <br />
 
 ## Connect With Me
@@ -81,4 +79,9 @@ Name | Badges
 <!--  -->
 <!-- <a href="https://stackexchange.com/users/922425/eunit99"><img src="https://stackexchange.com/users/flair/922425/eunit99.png?theme=dark" width="208" height="58" alt="profile for Emmanuel Uchenna on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Emmanuel Uchenna on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a> -->
 
+<br/>
 
+<br />
+## Visitors Count
+
+![Visitor Count](https://profile-counter.glitch.me/{eunit99}/count.svg)
