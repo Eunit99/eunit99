@@ -6,7 +6,7 @@
 <br />
 
 
-<a href="https://gitroll.io/profile/urwH2rBRRgVYS5F3Ba3EQPyQd3143" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/urwH2rBRRgVYS5F3Ba3EQPyQd3143" alt="GitRoll Profile Badge"/></a>
+<a href="https://gitroll.io/profile/urwH2rBRRgVYS5F3Ba3EQPyQd3143" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/urwH2rBRRgVYS5F3Ba3EQPyQd3143?theme=dark" alt="GitRoll Profile Badge"/></a>
 
 <br /> <br />
 ## About Me
