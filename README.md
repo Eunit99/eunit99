@@ -17,7 +17,7 @@ my web development tools. I am familiar with responsive design techniques, appro
 View, ensuring that what I produce will look great regardless of the type of device it is being viewed on.
 
 I love creating websites and programming. This is all my motivation pushing me to improve my skills in multiple
-disciplines such as UX design, UI design, and front-end development, I think these are just the titles for companies. For me,
+disciplines, such as UX design, UI design, and front-end development. These are just the titles for companies. For me,
 it is the path for turning ideas into live applications.
 <br />
 
