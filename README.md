@@ -3,6 +3,11 @@
 <img src="https://raw.githubusercontent.com/Eunit99/eunit99/master/img/eunit99.jpg" alt="Eunit99 on Github">
 <br />
 
+<br />
+
+<a href="https://gitroll.io/profile/urwH2rBRRgVYS5F3Ba3EQPyQd3143" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/urwH2rBRRgVYS5F3Ba3EQPyQd3143" alt="GitRoll Profile Badge"/></a>
+
+<br /> <br />
 ## About Me
 I am Emmanuel Uchenna, freelance ``chat bot developer`` | ``web developer`` | ``web designer`` | ``frontend developer``
 | ``graphic designer``
@@ -65,8 +70,6 @@ Name | Badges
  </div>
  <br/>
 
-
-<br />
 <br />
 
 ## Connect With Me
@@ -82,3 +85,8 @@ Name | Badges
 <!-- <a href="https://stackexchange.com/users/922425/eunit99"><img src="https://stackexchange.com/users/flair/922425/eunit99.png?theme=dark" width="208" height="58" alt="profile for Emmanuel Uchenna on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Emmanuel Uchenna on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a> -->
 
 
+<br /> <br />
+
+## Visitors Count
+
+![Visitor Count](https://profile-counter.glitch.me/{eunit99}/count.svg)
