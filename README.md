@@ -10,16 +10,10 @@
 
 <br /> <br />
 ## About Me
-I am Emmanuel Uchenna, freelance ``chat bot developer`` | ``web developer`` | ``web designer`` | ``frontend developer``
-| ``graphic designer``
+👋 Hi, I’m **Emmanuel Uchenna** — a *frontend engineer* and *technical writer* passionate about building intuitive digital experiences.  
+I specialize in **React**, **Next.js**, and modern web tooling, with experience spanning **SaaS**, **AI/LLMs**, and **digital health solutions**.  
+I love bridging the gap between *code* and *communication* by creating clean, scalable apps and clear, engaging content.
 
-I am a seasoned front-end web developer. **HTML5**, **CSS3**, **JavaScript**, **jQuery**, **VueJS**, and **ReactJS** are
-my web development tools. I am familiar with responsive design techniques, approaching all projects with a mobile-first
-View, ensuring that what I produce will look great regardless of the type of device it is being viewed on.
-
-I love creating websites and programming. This is all my motivation pushing me to improve my skills in multiple
-disciplines, such as UX design, UI design, and front-end development. These are just the titles for companies. For me,
-it is the path for turning ideas into live applications.
 <br />
 
 ##  Technologies, Tools, and Languages
@@ -88,6 +82,4 @@ Name | Badges
 
 <br /> <br />
 
-## Visitors Count
 
-![Visitor Count](https://profile-counter.glitch.me/{eunit99}/count.svg)
